@@ -1,0 +1,3974 @@
+fileFormatVersion: 2
+guid: e813c3d62300c244ea845ced5318f160
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7441139868736287282
+    second: Idle02
+  - first:
+      213: -768786762449310870
+    second: IdleNaked02
+  - first:
+      213: -4681044102383016308
+    second: Head
+  - first:
+      213: 7346490297999206173
+    second: Arthur_3
+  - first:
+      213: -721202685715504688
+    second: JumpRun
+  - first:
+      213: -7013045136993809118
+    second: JumpIdle
+  - first:
+      213: 2990359774189280090
+    second: Idle01
+  - first:
+      213: -3384554909940640935
+    second: Run01
+  - first:
+      213: 4789068181964507402
+    second: Run02
+  - first:
+      213: 472891312662425887
+    second: Run03
+  - first:
+      213: -7476573047740839907
+    second: Run04
+  - first:
+      213: -3723369255009046691
+    second: Arthur_11
+  - first:
+      213: 6717223252606652327
+    second: JumpRunNaked
+  - first:
+      213: 2405068287479310883
+    second: JumpIdleNaked
+  - first:
+      213: 706992794635863640
+    second: Crouch
+  - first:
+      213: -5220857798612550143
+    second: IdleNaked01
+  - first:
+      213: 8066426978106993531
+    second: RunNaked01
+  - first:
+      213: 2505799285752674522
+    second: RunNaked02
+  - first:
+      213: 8234723541717542212
+    second: RunNaked03
+  - first:
+      213: 5619198022392994668
+    second: RunNaked04
+  - first:
+      213: 3040063035618191647
+    second: Arthur_20
+  - first:
+      213: -6685789710706312798
+    second: Arthur_21
+  - first:
+      213: -6574140208393874091
+    second: Arthur_22
+  - first:
+      213: 885307520838686689
+    second: Arthur_23
+  - first:
+      213: 130259688670070759
+    second: Arthur_24
+  - first:
+      213: 6907199317505620005
+    second: Arthur_25
+  - first:
+      213: 4889707847240346809
+    second: Arthur_26
+  - first:
+      213: 1619722849999533755
+    second: Arthur_27
+  - first:
+      213: -3088095481093467290
+    second: Arthur_28
+  - first:
+      213: 9179927690750533326
+    second: Arthur_29
+  - first:
+      213: -2765568152454381618
+    second: Arthur_30
+  - first:
+      213: -2418571293706658236
+    second: CrouchNaked
+  - first:
+      213: 1247154188478775641
+    second: Arthur_32
+  - first:
+      213: 6925787171116094398
+    second: Arthur_33
+  - first:
+      213: -7567729911335130258
+    second: Arthur_34
+  - first:
+      213: 8125272171558946837
+    second: Arthur_35
+  - first:
+      213: -309340349699741853
+    second: Arthur_36
+  - first:
+      213: -7249928290478753063
+    second: Arthur_37
+  - first:
+      213: -9063037513958810321
+    second: Arthur_38
+  - first:
+      213: -2641283742604557707
+    second: Arthur_39
+  - first:
+      213: 70160804867653777
+    second: Shoot01
+  - first:
+      213: -8251750234714572846
+    second: Shoot02
+  - first:
+      213: 3250418086562211778
+    second: ShootCrouched01
+  - first:
+      213: 5758122617863726216
+    second: ShootCrouched02
+  - first:
+      213: 8927458887867041625
+    second: Climb01
+  - first:
+      213: -6904975203238167126
+    second: Arthur_45
+  - first:
+      213: -2183925939500697022
+    second: Arthur_46
+  - first:
+      213: 1467774073665788353
+    second: ShootNaked01
+  - first:
+      213: 4601571250169444059
+    second: ShootNaked02
+  - first:
+      213: -1869835977706390296
+    second: ShootCrouchedNaked01
+  - first:
+      213: -5648291247511142491
+    second: ShootCrouchedNaked02
+  - first:
+      213: -7366098393107844886
+    second: ClimbNaked01
+  - first:
+      213: -7288356656712179798
+    second: Arthur_52
+  - first:
+      213: 4419757411681586031
+    second: Arthur_53
+  - first:
+      213: -23378911549632427
+    second: Arthur_54
+  - first:
+      213: 3205502847242067293
+    second: Arthur_55
+  - first:
+      213: 6269642918220508664
+    second: Arthur_56
+  - first:
+      213: -3178818979974892677
+    second: Arthur_57
+  - first:
+      213: -3880479049105381574
+    second: Arthur_58
+  - first:
+      213: -2814767902249969750
+    second: Arthur_59
+  - first:
+      213: 951769816196575687
+    second: Arthur_60
+  - first:
+      213: 1418911458284527025
+    second: Arthur_61
+  - first:
+      213: 59862953584274524
+    second: Arthur_62
+  - first:
+      213: 3157481084504232366
+    second: Arthur_63
+  - first:
+      213: 6338236803556189844
+    second: Arthur_64
+  - first:
+      213: -1206641979065911112
+    second: Armor
+  - first:
+      213: 9167789778736899500
+    second: Arthur_66
+  - first:
+      213: -7792967460232846805
+    second: Arthur_67
+  - first:
+      213: -4389193626100077961
+    second: Arthur_68
+  - first:
+      213: -5574782307330653917
+    second: Arthur_69
+  - first:
+      213: 2245456168666518427
+    second: Arthur_70
+  - first:
+      213: -1818119527590808263
+    second: Arthur_71
+  - first:
+      213: 3761124630548067272
+    second: Arthur_72
+  - first:
+      213: 1972510706828336354
+    second: Arthur_73
+  - first:
+      213: -7721768328389542440
+    second: Arthur_74
+  - first:
+      213: -204620701703016473
+    second: Arthur_75
+  - first:
+      213: -1461267766016486690
+    second: Arthur_76
+  - first:
+      213: -5967049117214641758
+    second: Arthur_77
+  - first:
+      213: 5948244238365901082
+    second: Arthur_78
+  - first:
+      213: -6402979352434388107
+    second: Arthur_79
+  - first:
+      213: -6866935424391908776
+    second: Arthur_80
+  - first:
+      213: -7923700542239499747
+    second: Arthur_81
+  - first:
+      213: -7618458580642348768
+    second: Arthur_82
+  - first:
+      213: 349234611985412863
+    second: Arthur_83
+  - first:
+      213: 4727724080341418391
+    second: Arthur_84
+  - first:
+      213: -8489838200261509173
+    second: Arthur_85
+  - first:
+      213: -7513851453835004243
+    second: Arthur_86
+  - first:
+      213: 8426419144904432462
+    second: Arthur_87
+  - first:
+      213: -3266704946060916480
+    second: Arthur_88
+  - first:
+      213: 8821422558252842422
+    second: Arthur_89
+  - first:
+      213: -6189863459810022040
+    second: Arthur_90
+  - first:
+      213: -737846453548878670
+    second: Arthur_91
+  - first:
+      213: -7939021253321173069
+    second: Arthur_92
+  - first:
+      213: -529091051771053854
+    second: Arthur_93
+  - first:
+      213: 3324440812837605528
+    second: Arthur_94
+  - first:
+      213: 8365503719865442341
+    second: Arthur_95
+  - first:
+      213: 9120346451870187411
+    second: Arthur_96
+  - first:
+      213: -6109479013044545224
+    second: Arthur_97
+  - first:
+      213: 6641303815580903903
+    second: Arthur_98
+  - first:
+      213: -9048413811845357729
+    second: Arthur_99
+  - first:
+      213: 2792554537333010936
+    second: Arthur_100
+  - first:
+      213: -7285236641157087270
+    second: Arthur_101
+  - first:
+      213: -3000662705399486341
+    second: Arthur_102
+  - first:
+      213: -5027853599971039949
+    second: Arthur_103
+  - first:
+      213: 1309178941767763321
+    second: Arthur_104
+  - first:
+      213: -6752752000262342492
+    second: Arthur_105
+  - first:
+      213: 8888901700747462062
+    second: Arthur_106
+  - first:
+      213: -4972571759585956681
+    second: Arthur_107
+  - first:
+      213: -2961363414028481605
+    second: Arthur_108
+  - first:
+      213: -8103126246378900975
+    second: Arthur_109
+  - first:
+      213: -2977670597020524915
+    second: Arthur_110
+  - first:
+      213: -8960946349256711424
+    second: Arthur_111
+  - first:
+      213: -4802319424026543873
+    second: Arthur_112
+  - first:
+      213: -8426591186277901035
+    second: AxeF01
+  - first:
+      213: 3622537760660750828
+    second: AxeF02
+  - first:
+      213: 7438030375977539812
+    second: AxeF03
+  - first:
+      213: 522856527742158639
+    second: AxeF04
+  - first:
+      213: 6078013321215633619
+    second: Spear01
+  - first:
+      213: 7028288804120272793
+    second: Spear02
+  - first:
+      213: 8919326583736374246
+    second: Spear03
+  - first:
+      213: 8597783106952622665
+    second: Spear04
+  - first:
+      213: -1169049682772071160
+    second: Dagger01
+  - first:
+      213: -7539189389340122009
+    second: Dagger02
+  - first:
+      213: 4853744715565439635
+    second: Dagger03
+  - first:
+      213: -3857238994710532714
+    second: Dagger04
+  - first:
+      213: 1343764215787713359
+    second: Shield01
+  - first:
+      213: 1529271733818864413
+    second: Shield02
+  - first:
+      213: -6946546819472141045
+    second: Shield03
+  - first:
+      213: 1325503294130853119
+    second: Shield04
+  - first:
+      213: -3065976374627281306
+    second: FireF01
+  - first:
+      213: -8973034045079078792
+    second: FireF02
+  - first:
+      213: 8987648019512996080
+    second: FireF03
+  - first:
+      213: -1375103511740659252
+    second: FireF04
+  - first:
+      213: -1375398543657353277
+    second: Cross01
+  - first:
+      213: -180999291997395205
+    second: Cross02
+  - first:
+      213: 1385135770098111487
+    second: Cross03
+  - first:
+      213: -5651488974396863186
+    second: Cross04
+  - first:
+      213: 4708930778133018043
+    second: Arthur_137
+  - first:
+      213: -5032420922208724696
+    second: Arthur_138
+  - first:
+      213: -6192772830220748737
+    second: Arthur_139
+  - first:
+      213: -4669596324110631411
+    second: Arthur_140
+  - first:
+      213: -5523331924878484300
+    second: Arthur_141
+  - first:
+      213: -6713565608021309034
+    second: Vanish01
+  - first:
+      213: -9021516277192658720
+    second: SpearSingle
+  - first:
+      213: 2418573209456625356
+    second: DaggerSingle
+  - first:
+      213: -1650769103620770358
+    second: Arthur_145
+  - first:
+      213: 5703782140673339575
+    second: Arthur_146
+  - first:
+      213: -4120342351108231533
+    second: Arthur_147
+  - first:
+      213: -4291890042242249747
+    second: Arthur_148
+  - first:
+      213: 8040129313723273793
+    second: Arthur_149
+  - first:
+      213: 8552515378939510078
+    second: Arthur_150
+  - first:
+      213: -6228590643400942800
+    second: Arthur_151
+  - first:
+      213: -7373987538093700271
+    second: Arthur_152
+  - first:
+      213: -4630155645466961623
+    second: Arthur_153
+  - first:
+      213: 2730438413925575355
+    second: Arthur_154
+  - first:
+      213: 8156510951816419720
+    second: Arthur_155
+  - first:
+      213: -1708452851318411394
+    second: Arthur_156
+  - first:
+      213: 6849787990704715524
+    second: Arthur_157
+  - first:
+      213: -8210569982021874413
+    second: Arthur_158
+  - first:
+      213: 5540578022041804103
+    second: Arthur_159
+  - first:
+      213: -2382073653283192805
+    second: Arthur_160
+  - first:
+      213: -796576821870931469
+    second: Arthur_161
+  - first:
+      213: 7519772884733774644
+    second: Arthur_162
+  - first:
+      213: 4456464220180831963
+    second: Arthur_163
+  - first:
+      213: -3434657765467475431
+    second: Arthur_164
+  - first:
+      213: 4839525956290563720
+    second: Arthur_165
+  - first:
+      213: 3274402614279704316
+    second: Arthur_166
+  - first:
+      213: 5521107860824813035
+    second: Arthur_167
+  - first:
+      213: -6729762810143548450
+    second: Arthur_168
+  - first:
+      213: -4687655067345596484
+    second: Arthur_169
+  - first:
+      213: 943990291240233795
+    second: Arthur_170
+  - first:
+      213: 5992938109319794099
+    second: Arthur_171
+  - first:
+      213: 8637595325874904524
+    second: Arthur_172
+  - first:
+      213: 5709611323900119013
+    second: Arthur_173
+  - first:
+      213: 7399934696562691203
+    second: Arthur_174
+  - first:
+      213: -4318262262039074489
+    second: Arthur_175
+  - first:
+      213: -6716964962666856594
+    second: Arthur_176
+  - first:
+      213: 1488886798174169956
+    second: Arthur_177
+  - first:
+      213: -309403505036272327
+    second: Arthur_178
+  - first:
+      213: 2215820821478620911
+    second: Arthur_179
+  - first:
+      213: -2396469893503065539
+    second: Arthur_180
+  - first:
+      213: -1522494724695686213
+    second: Arthur_181
+  - first:
+      213: -7377469434290629450
+    second: Arthur_182
+  - first:
+      213: 5621771976615982675
+    second: Arthur_183
+  - first:
+      213: -6308938997676940054
+    second: Arthur_184
+  - first:
+      213: -7061064397903485614
+    second: Arthur_185
+  - first:
+      213: 8431106885211775365
+    second: Arthur_186
+  - first:
+      213: -7670227950555210785
+    second: Arthur_187
+  - first:
+      213: -3009083613601462083
+    second: Arthur_188
+  - first:
+      213: -6920790733289603354
+    second: Arthur_189
+  - first:
+      213: -618370995881485064
+    second: Arthur_190
+  - first:
+      213: 3040427186147190945
+    second: Arthur_191
+  - first:
+      213: 1399043436035262388
+    second: Arthur_192
+  - first:
+      213: 3295369384781110486
+    second: Arthur_193
+  - first:
+      213: -2819647182626797434
+    second: Arthur_194
+  - first:
+      213: -2162740113497230080
+    second: Arthur_195
+  - first:
+      213: -8761506046836777767
+    second: Fire01
+  - first:
+      213: 1970871343288281851
+    second: Arthur_197
+  - first:
+      213: -1039605668194213169
+    second: Arthur_198
+  - first:
+      213: -124381052672774504
+    second: Arthur_199
+  - first:
+      213: -8899486609118518874
+    second: Arthur_200
+  - first:
+      213: 3888133035230938970
+    second: Arthur_201
+  - first:
+      213: -7749000910499034314
+    second: Arthur_202
+  - first:
+      213: 2538280056286108067
+    second: Arthur_203
+  - first:
+      213: 6853103913226497705
+    second: Arthur_204
+  - first:
+      213: -1054060061983997138
+    second: Arthur_205
+  - first:
+      213: -7152758110601453877
+    second: Arthur_206
+  - first:
+      213: 739183511122803212
+    second: Arthur_207
+  - first:
+      213: -3200444164899320828
+    second: Arthur_208
+  - first:
+      213: -1056632246635071485
+    second: Arthur_209
+  - first:
+      213: 4924712521087267638
+    second: Arthur_210
+  - first:
+      213: -8725701854541481627
+    second: Arthur_211
+  - first:
+      213: 7027851132958724670
+    second: Arthur_212
+  - first:
+      213: -1673892323378657371
+    second: Arthur_213
+  - first:
+      213: -6313932771621487799
+    second: Arthur_214
+  - first:
+      213: 2775249950350123808
+    second: Arthur_215
+  - first:
+      213: 5766888166792885169
+    second: Arthur_216
+  - first:
+      213: -4328629557457768471
+    second: Arthur_217
+  - first:
+      213: 5279422695218261851
+    second: Arthur_218
+  - first:
+      213: 8393696104129454665
+    second: Arthur_219
+  - first:
+      213: -9158101043760201681
+    second: Arthur_220
+  - first:
+      213: 4740815659325785785
+    second: Arthur_221
+  - first:
+      213: 2143790063306421930
+    second: Arthur_222
+  - first:
+      213: 5579929837909006683
+    second: Arthur_223
+  - first:
+      213: -8250394924734525428
+    second: Arthur_224
+  - first:
+      213: 1090780556466048390
+    second: Arthur_225
+  - first:
+      213: 2526978367100861487
+    second: Arthur_226
+  - first:
+      213: 4181499775897548686
+    second: Arthur_227
+  - first:
+      213: -3668500982256953895
+    second: Arthur_228
+  - first:
+      213: 6297287666810565353
+    second: Arthur_229
+  - first:
+      213: -7967773085891285378
+    second: Arthur_230
+  - first:
+      213: -8819963825765019921
+    second: Arthur_231
+  - first:
+      213: 4788706247405619160
+    second: Arthur_232
+  - first:
+      213: -9006099889613364418
+    second: Arthur_233
+  - first:
+      213: 8518907462156497491
+    second: Arthur_234
+  - first:
+      213: 8192969682401025531
+    second: Arthur_235
+  - first:
+      213: 2006560454744545062
+    second: Arthur_236
+  - first:
+      213: 2244711515597115870
+    second: Arthur_237
+  - first:
+      213: -5259773829438651234
+    second: Arthur_238
+  - first:
+      213: -2418212602621873301
+    second: Arthur_239
+  - first:
+      213: 1768493619035119101
+    second: Axe02
+  - first:
+      213: 3878957719280373960
+    second: Axe03
+  - first:
+      213: -8041186899563810811
+    second: Axe04
+  - first:
+      213: -1451319376052644136
+    second: Arthur_243
+  - first:
+      213: 2360561092923079176
+    second: Arthur_244
+  - first:
+      213: 9188474313186724657
+    second: Arthur_245
+  - first:
+      213: 4307599343486272941
+    second: Arthur_246
+  - first:
+      213: -8732853665817489342
+    second: Arthur_247
+  - first:
+      213: 485511406819360425
+    second: Arthur_248
+  - first:
+      213: 1144335815497195536
+    second: Arthur_249
+  - first:
+      213: -257981829091769751
+    second: Axe01
+  - first:
+      213: 377167937989341578
+    second: Arthur_251
+  - first:
+      213: 3435534997830201725
+    second: Arthur_252
+  - first:
+      213: 4315588888168007409
+    second: Arthur_253
+  - first:
+      213: 4885160393407135035
+    second: Arthur_254
+  - first:
+      213: 10953576163240146
+    second: Arthur_255
+  - first:
+      213: -7072657202486584972
+    second: Arthur_256
+  - first:
+      213: -6295481645036276670
+    second: Arthur_257
+  - first:
+      213: 9119135508327636199
+    second: Arthur_258
+  - first:
+      213: -6414494892221336578
+    second: Arthur_259
+  - first:
+      213: 1961795844557302706
+    second: Arthur_260
+  - first:
+      213: 2518255308959250226
+    second: Arthur_261
+  - first:
+      213: 305773304350821875
+    second: Arthur_262
+  - first:
+      213: -7734875736155423503
+    second: Arthur_263
+  - first:
+      213: -2103793769352480146
+    second: Arthur_264
+  - first:
+      213: -2581126593076800152
+    second: Arthur_265
+  - first:
+      213: -1290605822829010722
+    second: Arthur_266
+  - first:
+      213: 8215975584417059243
+    second: Arthur_267
+  - first:
+      213: 1772956747674446950
+    second: Arthur_268
+  - first:
+      213: 8378364163894336950
+    second: Arthur_269
+  - first:
+      213: -3719942804831796734
+    second: Arthur_270
+  - first:
+      213: 7294304797670868098
+    second: Frog01
+  - first:
+      213: 2578475830865751388
+    second: Frog02
+  - first:
+      213: -2211316907899120838
+    second: Frog03
+  - first:
+      213: -6599439960538847694
+    second: Frog04
+  - first:
+      213: 2255769911750560321
+    second: Arthur_275
+  - first:
+      213: 6645153110407917187
+    second: Arthur_276
+  - first:
+      213: -7550406231295926516
+    second: Arthur_277
+  - first:
+      213: 6705401148801678787
+    second: Arthur_278
+  - first:
+      213: 7629816090999756068
+    second: Arthur_279
+  - first:
+      213: 1291192157183220391
+    second: Arthur_280
+  - first:
+      213: 2528514877721696272
+    second: Arthur_281
+  - first:
+      213: 3683562002712368167
+    second: Arthur_282
+  - first:
+      213: 9312622965883328
+    second: Arthur_283
+  - first:
+      213: 2705394467009221459
+    second: Arthur_284
+  - first:
+      213: -1212664372861670574
+    second: Arthur_285
+  - first:
+      213: 3146077411552341498
+    second: Arthur_286
+  - first:
+      213: 6338972599749763064
+    second: Arthur_287
+  - first:
+      213: -5900303893303613832
+    second: Arthur_288
+  - first:
+      213: -6691109943293573027
+    second: Arthur_289
+  - first:
+      213: 1202887396397124079
+    second: Arthur_290
+  - first:
+      213: -5210539430368089495
+    second: Arthur_291
+  - first:
+      213: -6208222438909282595
+    second: Arthur_292
+  - first:
+      213: 3407841150008599903
+    second: Arthur_293
+  - first:
+      213: 3801332939782750612
+    second: Arthur_294
+  - first:
+      213: 6421283544719985576
+    second: Arthur_295
+  - first:
+      213: -7811515529008581276
+    second: Arthur_296
+  - first:
+      213: -8828214408000467004
+    second: Arthur_297
+  - first:
+      213: 7172025447847182075
+    second: Arthur_298
+  - first:
+      213: 7573113545459177046
+    second: Arthur_299
+  - first:
+      213: -2458512106730866364
+    second: Arthur_300
+  - first:
+      213: 5953063104929956432
+    second: Arthur_301
+  - first:
+      213: -3794074326393280892
+    second: Arthur_302
+  - first:
+      213: -3375819559297939746
+    second: Arthur_303
+  - first:
+      213: 699534754336932160
+    second: Arthur_304
+  - first:
+      213: 4133025490401910764
+    second: Arthur_305
+  - first:
+      213: 8913942906808622500
+    second: Arthur_306
+  - first:
+      213: -1421596245251854472
+    second: Arthur_307
+  - first:
+      213: -4682039633023630030
+    second: Arthur_308
+  - first:
+      213: -4550701967014256399
+    second: Arthur_309
+  - first:
+      213: 5356763591705785796
+    second: Arthur_310
+  - first:
+      213: -2207492064063240680
+    second: Arthur_311
+  - first:
+      213: 8194443206819435730
+    second: Arthur_312
+  - first:
+      213: -5102985208086741292
+    second: Arthur_313
+  - first:
+      213: 116592683629786582
+    second: Arthur_314
+  - first:
+      213: 7627503383536316692
+    second: Arthur_315
+  - first:
+      213: 293854635037923094
+    second: Arthur_316
+  - first:
+      213: -6158273595386078326
+    second: PickupBox01
+  - first:
+      213: -1334863444377629859
+    second: PickupBox02
+  - first:
+      213: -3644560745895554159
+    second: PickupBox03
+  - first:
+      213: -7371293705348003753
+    second: PickupBox04
+  - first:
+      213: 4185702955569827960
+    second: PickupBox05
+  - first:
+      213: -9031538109056734904
+    second: PickupBoxVanish01
+  - first:
+      213: -6473681075228104867
+    second: PickupBoxVanish02
+  - first:
+      213: -2734751685238209409
+    second: Arthur_324
+  - first:
+      213: -5181208127227549194
+    second: Arthur_325
+  - first:
+      213: -8581304668255985366
+    second: Arthur_326
+  - first:
+      213: 5113235673308557028
+    second: PickupBoxVanish04
+  - first:
+      213: 8993152094543198778
+    second: Arthur_328
+  - first:
+      213: -7994995095341565551
+    second: Arthur_329
+  - first:
+      213: -3242765463351512463
+    second: PickupBoxBreaking
+  - first:
+      213: -1905348316742121180
+    second: Arthur_331
+  - first:
+      213: 7141361188056628089
+    second: PickupBoxVanish03
+  - first:
+      213: 4542850010375689325
+    second: Arthur_333
+  - first:
+      213: 3025001934485911116
+    second: Arthur_334
+  - first:
+      213: -3500069762620868049
+    second: Arthur_335
+  - first:
+      213: -6799229805797000348
+    second: PickUpBasket
+  - first:
+      213: 2484546967139963232
+    second: Arthur_337
+  - first:
+      213: -3114822697286371750
+    second: Arthur_338
+  - first:
+      213: -183916991680128435
+    second: Arthur_339
+  - first:
+      213: -3183572961811735570
+    second: Arthur_340
+  - first:
+      213: 8184017937590962218
+    second: Climb02
+  - first:
+      213: 3789918271170175940
+    second: ClimbNaked02
+  - first:
+      213: -3984171040440294319
+    second: Grave1
+  - first:
+      213: -6754325444456270416
+    second: Grave2
+  - first:
+      213: 7575490336409685699
+    second: Grave3
+  - first:
+      213: 3539958593829216022
+    second: MovingPlatform
+  - first:
+      213: -2633757186513717808
+    second: Vanish03
+  - first:
+      213: -7434216616701867910
+    second: Vanish02
+  - first:
+      213: -5706209200104069359
+    second: Logo
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpRun
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 928
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1aeda7af5cdf5f0800000000000000
+      internalID: -721202685715504688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdle
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 929
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d04b7ca98acae90800000000000000
+      internalID: -7013045136993809118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 910
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5b2bfe54ef7920800000000000000
+      internalID: 2990359774189280090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run01
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 910
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531f26dd35a701d0800000000000000
+      internalID: -3384554909940640935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run02
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 910
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ce1f4320367240800000000000000
+      internalID: 4789068181964507402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run03
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 910
+        width: 19
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11bc94b42c009600800000000000000
+      internalID: 472891312662425887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run04
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 910
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c528fc60ed3890800000000000000
+      internalID: -7476573047740839907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpRunNaked
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 896
+        width: 29
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af0d9875fe583d50800000000000000
+      internalID: 6717223252606652327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpIdleNaked
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 899
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ae2c76dd4806120800000000000000
+      internalID: 2405068287479310883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 910
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856080f633ebfc900800000000000000
+      internalID: 706992794635863640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleNaked01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 878
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10efed25e79cb87b0800000000000000
+      internalID: -5220857798612550143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunNaked01
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 878
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be1bc4994b1ff60800000000000000
+      internalID: 8066426978106993531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunNaked02
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 878
+        width: 17
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad837b19c2366c220800000000000000
+      internalID: 2505799285752674522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunNaked03
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 878
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445ee978e6d974270800000000000000
+      internalID: 8234723541717542212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunNaked04
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 878
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdf4f54d66bfd40800000000000000
+      internalID: 5619198022392994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 885
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1961d45939703a20800000000000000
+      internalID: 3040063035618191647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_21
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 885
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a973625ead4733a0800000000000000
+      internalID: -6685789710706312798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 885
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555121fcf46f3c4a0800000000000000
+      internalID: -6574140208393874091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 885
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e75298ef7e394c00800000000000000
+      internalID: 885307520838686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 883
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78bb72f76cec100800000000000000
+      internalID: 130259688670070759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 887
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283eb0fe2d4bdf50800000000000000
+      internalID: 6907199317505620005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 887
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc633a516bbbd340800000000000000
+      internalID: 4889707847240346809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 887
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63ec4b9596a7610800000000000000
+      internalID: 1619722849999533755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 887
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635fe87581e425d0800000000000000
+      internalID: -3088095481093467290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 887
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece15fee897a56f70800000000000000
+      internalID: 9179927690750533326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 885
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb2defa6abe99d0800000000000000
+      internalID: -2765568152454381618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchNaked
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 878
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e58a6f8328f6ed0800000000000000
+      internalID: -2418571293706658236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 865
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367a375479005bbf0800000000000000
+      internalID: -309340349699741853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 821
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ca4b51e249f000800000000000000
+      internalID: 70160804867653777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot02
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 821
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7779491e4eb7d80800000000000000
+      internalID: -8251750234714572846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouched01
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 821
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7ab0d370ecb1d20800000000000000
+      internalID: 3250418086562211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouched02
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 821
+        width: 27
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e8ea5306f8ef40800000000000000
+      internalID: 5758122617863726216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 821
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957083e0f84b4eb70800000000000000
+      internalID: 8927458887867041625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_45
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 827
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadbb1403a99c20a0800000000000000
+      internalID: -6904975203238167126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 835
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24abc40dde221b1e0800000000000000
+      internalID: -2183925939500697022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootNaked01
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 791
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9906f4eb49e5410800000000000000
+      internalID: 1467774073665788353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootNaked02
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 791
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6fffefba01cdf30800000000000000
+      internalID: 4601571250169444059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouchedNaked01
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 791
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb098c5120d06e0800000000000000
+      internalID: -1869835977706390296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShootCrouchedNaked02
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 791
+        width: 23
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af762c490d3d91b0800000000000000
+      internalID: -5648291247511142491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbNaked01
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 791
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae03b3ae98c56c990800000000000000
+      internalID: -7366098393107844886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 797
+        width: 21
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf11507c3e8ada90800000000000000
+      internalID: -7288356656712179798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 805
+        width: 22
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b4ea4f2f1265d30800000000000000
+      internalID: 4419757411681586031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 757
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda311240f320750800000000000000
+      internalID: 6269642918220508664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 754
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b355daf092e3d0800000000000000
+      internalID: -3178818979974892677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_60
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 747
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f55aea9d553d00800000000000000
+      internalID: 951769816196575687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 754
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8b3ba5385214fe0800000000000000
+      internalID: -1206641979065911112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 712
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efec415e8a092df0800000000000000
+      internalID: -204620701703016473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 712
+        width: 25
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a114011ae986c8250800000000000000
+      internalID: 5948244238365901082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 712
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9e31a65c590290800000000000000
+      internalID: -7923700542239499747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 712
+        width: 30
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ff6d4f84a2c5f0800000000000000
+      internalID: -737846453548878670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_96
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 712
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f773cb6caf19e70800000000000000
+      internalID: 9120346451870187411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 712
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83996c00535c63ba0800000000000000
+      internalID: -6109479013044545224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 689
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9652512a6aa2c50800000000000000
+      internalID: 6641303815580903903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeF01
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 668
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dd77a46fbbe0b80800000000000000
+      internalID: -8426591186277901035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeF02
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 668
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce18f9976e6d54230800000000000000
+      internalID: 3622537760660750828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeF03
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 668
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8d4b4f731393760800000000000000
+      internalID: 7438030375977539812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AxeF04
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 668
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c094ed3f814700800000000000000
+      internalID: 522856527742158639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear01
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 655
+        width: 29
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86627b9e0795450800000000000000
+      internalID: 6078013321215633619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear02
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 655
+        width: 28
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f917c0e6f798160800000000000000
+      internalID: 7028288804120272793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear03
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 655
+        width: 29
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e31e437540d7cb70800000000000000
+      internalID: 8919326583736374246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear04
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 655
+        width: 29
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942f3c9ce26715770800000000000000
+      internalID: 8597783106952622665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger01
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 653
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d6695e183b6cfe0800000000000000
+      internalID: -1169049682772071160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger02
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 653
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764ecf9d13b6f5790800000000000000
+      internalID: -7539189389340122009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger03
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 653
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a15b14a17fb5340800000000000000
+      internalID: 4853744715565439635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger04
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 653
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d6e722295587ac0800000000000000
+      internalID: -3857238994710532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield01
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 632
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4378e74f6206a210800000000000000
+      internalID: 1343764215787713359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 632
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b15b1a80193510800000000000000
+      internalID: 1529271733818864413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield03
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 632
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b055eb9d878e89f90800000000000000
+      internalID: -6946546819472141045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield04
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 632
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff497432932256210800000000000000
+      internalID: 1325503294130853119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireF01
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 633
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666d9944bb67375d0800000000000000
+      internalID: -3065976374627281306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireF02
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 633
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783391c311697380800000000000000
+      internalID: -8973034045079078792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireF03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 633
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0b051514a8abc70800000000000000
+      internalID: 8987648019512996080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireF04
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 633
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc94e4544a6aaece0800000000000000
+      internalID: -1375103511740659252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross01
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 633
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfb6bccf4a99ece0800000000000000
+      internalID: -1375398543657353277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 633
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e5e75a16fc7df0800000000000000
+      internalID: -180999291997395205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross03
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 633
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39266e4adf83310800000000000000
+      internalID: 1385135770098111487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross04
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 633
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc90d78b0e191b0800000000000000
+      internalID: -5651488974396863186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_139
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 594
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387000fbe9de0aa0800000000000000
+      internalID: -6192772830220748737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_140
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 611
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7ae042e2423fb0800000000000000
+      internalID: -4669596324110631411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_141
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 612
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1b01d0ee2953b0800000000000000
+      internalID: -5523331924878484300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vanish01
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 616
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994c9546af94d2a0800000000000000
+      internalID: -6713565608021309034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpearSingle
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 611
+        width: 29
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f6827eb22dc280800000000000000
+      internalID: -9021516277192658720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DaggerSingle
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 610
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc640f4158f709120800000000000000
+      internalID: 2418573209456625356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_185
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 570
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552eca575f020e90800000000000000
+      internalID: -7061064397903485614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_187
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 570
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb52ec4150ed8590800000000000000
+      internalID: -7670227950555210785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_188
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 572
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db806df65669d36d0800000000000000
+      internalID: -3009083613601462083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire01
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 570
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc5bdcbba0e86680800000000000000
+      internalID: -8761506046836777767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_213
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 525
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a703c0fcc325c8e0800000000000000
+      internalID: -1673892323378657371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_214
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 525
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bbdcbc8976068a0800000000000000
+      internalID: -6313932771621487799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_221
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 525
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b609b769b2cac140800000000000000
+      internalID: 4740815659325785785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_222
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 525
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6346c44b540cd10800000000000000
+      internalID: 2143790063306421930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe02
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 487
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd122e9393fa8810800000000000000
+      internalID: 1768493619035119101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe03
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 489
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0577c7e73d4d530800000000000000
+      internalID: 3878957719280373960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe04
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 487
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50079fe6e17f76090800000000000000
+      internalID: -8041186899563810811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe01
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 488
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ca7ea4e67b6cf0800000000000000
+      internalID: -257981829091769751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog01
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 436
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284899c01939a3560800000000000000
+      internalID: 7294304797670868098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog02
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 438
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5deea85b1698c320800000000000000
+      internalID: 2578475830865751388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog03
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 438
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339bd20df2df41e0800000000000000
+      internalID: -2211316907899120838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frog04
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 442
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236609b32541a64a0800000000000000
+      internalID: -6599439960538847694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_275
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 438
+        width: 26
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a08ec78ca1e4f10800000000000000
+      internalID: 2255769911750560321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_276
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 434
+        width: 22
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e22ffdb83583c50800000000000000
+      internalID: 6645153110407917187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_311
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 378
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816440dd9a96d51e0800000000000000
+      internalID: -2207492064063240680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_313
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 378
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debae17dfd8e29b0800000000000000
+      internalID: -5102985208086741292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_314
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 376
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b9239d683e9100800000000000000
+      internalID: 116592683629786582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_316
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 376
+        width: 15
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6179901db3bf31400800000000000000
+      internalID: 293854635037923094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBox01
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 345
+        width: 30
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b585dfaca698aa0800000000000000
+      internalID: -6158273595386078326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBox02
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 345
+        width: 32
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b873e05cc997de0800000000000000
+      internalID: -1334863444377629859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBox03
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 345
+        width: 32
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931092bf4beb6dc0800000000000000
+      internalID: -3644560745895554159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBox04
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 345
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758c8a50e67e3b990800000000000000
+      internalID: -7371293705348003753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBox05
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 345
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870da0a49aa961a30800000000000000
+      internalID: 4185702955569827960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBoxVanish01
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 312
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492542e0f789a280800000000000000
+      internalID: -9031538109056734904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBoxVanish02
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 314
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d572cd17c5dd826a0800000000000000
+      internalID: -6473681075228104867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBoxVanish04
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 313
+        width: 43
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee6968f0ccd5f640800000000000000
+      internalID: 5113235673308557028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBoxBreaking
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 312
+        width: 32
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723703fdf16ff2d0800000000000000
+      internalID: -3242765463351512463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickupBoxVanish03
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 312
+        width: 40
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b70eaf9263b1360800000000000000
+      internalID: 7141361188056628089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PickUpBasket
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 272
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bb837f38844a1a0800000000000000
+      internalID: -6799229805797000348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_337
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 272
+        width: 29
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061d62c8d42ea7220800000000000000
+      internalID: 2484546967139963232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_338
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 278
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56fbe5824de5c4d0800000000000000
+      internalID: -3114822697286371750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_339
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 274
+        width: 28
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a5fb27878927df0800000000000000
+      internalID: -183916991680128435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arthur_340
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 25
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5cae224da1d3d0800000000000000
+      internalID: -3183572961811735570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle02
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 977
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd0af7d6b2cbb890800000000000000
+      internalID: -7441139868736287282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleNaked02
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 945
+        width: 18
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6baf244388b455f0800000000000000
+      internalID: -768786762449310870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Climb02
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 821
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c88514f8739170800000000000000
+      internalID: 8184017937590962218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClimbNaked02
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 791
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36cd8769e789430800000000000000
+      internalID: 3789918271170175940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 998
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154682a3c8165b8c0800000000000000
+      internalID: -3984171040440294319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 998
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53dc15bc0d342a0800000000000000
+      internalID: -6754325444456270416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grave3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 998
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8a15035c812960800000000000000
+      internalID: 7575490336409685699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovingPlatform
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 997
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f18c8e595702130800000000000000
+      internalID: 3539958593829216022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vanish03
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 613
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b7390bc3037bd0800000000000000
+      internalID: -2633757186513717808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vanish02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 615
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78cd22106b54d890800000000000000
+      internalID: -7434216616701867910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 215
+        width: 176
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1172bbd17f87fc0b0800000000000000
+      internalID: -5706209200104069359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 963
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e58ba037990fb0800000000000000
+      internalID: -4681044102383016308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

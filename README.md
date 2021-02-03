@@ -1,7 +1,7 @@
 # Ghosts 'n Goblins - RAM ROM Check Edition
 Iñaki Ayucar (2020)
 
-This software is provided for non-commercial, TRAINING PURPOSES ONLY, as reference material for the online Video Podcast: www.ramromcheck.com 
+Please note: This software is NOT the full Ghosts 'n Goblins videogame. It's a Unity project which mimics the first level of the game. It is provided for non-commercial, TRAINING PURPOSES ONLY, as reference material for the online Video Podcast: www.ramromcheck.com 
 
 The purpose of this podcasts is to teach videogame programming by cloning part of some of the best arcade classics (usually the first level only) using modern technologies 
 such as Unity. Please, do not use this software commercially, and give credit to Author or to www.ramromcheck.com when used. 
@@ -22,3 +22,12 @@ Ghosts 'n Goblins is a registered trademark of CAPCOM Co, Ltd.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# How to use
+
+	1.- Download or clone repository.
+	2.- Open project with Unity Editor
+	3.- In Unity, go to "Scenes" folder and open "Level1"
+	4.- Hit Play... 
+	
+Source code can be found in the "Assets" folder.

@@ -7,13 +7,13 @@ The purpose of this podcasts is to teach videogame programming by cloning part o
 such as Unity. Please, do not use this software commercially, and give credit to Author or to www.ramromcheck.com when used. 
 
 Resources taken from:
-						Sprites:	www.spriters-resource.com	(Submitted by Locomule & Goemar)
-						Sounds:		www.sounds-resource.com		(Submitted by Cooper B. Chance)
+			Sprites:	www.spriters-resource.com	(Submitted by Locomule & Goemar)
+			Sounds:		www.sounds-resource.com		(Submitted by Cooper B. Chance)
 
 Coding by: 
 
-						Iñaki Ayucar
-						www.ramromcheck.com
+			Iñaki Ayucar
+			www.ramromcheck.com
 
 Ghosts 'n Goblins is a registered trademark of CAPCOM Co, Ltd.
 
